@@ -1,0 +1,11 @@
+marks=int(input("enter a number"))
+if marks>=90:
+    print("a")
+elif marks>=75:
+    print("B")
+elif marks>=60:
+    print("c")
+elif marks>=49:
+    print("d")
+else:
+    print("fail")
